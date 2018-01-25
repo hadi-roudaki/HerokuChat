@@ -1,0 +1,17 @@
+{
+  "name": "iochat",
+  "version": "1.0.0",
+  "description": "socket io chat ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Hadi Roudaki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "mongodb": "^3.0.1",
+    "socket.io": "*"
+  }
+}
